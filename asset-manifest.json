@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GenderReveal/static/css/main.93da209f.chunk.css",
+    "main.js": "/GenderReveal/static/js/main.047d0a19.chunk.js",
+    "main.js.map": "/GenderReveal/static/js/main.047d0a19.chunk.js.map",
+    "runtime-main.js": "/GenderReveal/static/js/runtime-main.57c712a0.js",
+    "runtime-main.js.map": "/GenderReveal/static/js/runtime-main.57c712a0.js.map",
+    "static/css/2.89f067aa.chunk.css": "/GenderReveal/static/css/2.89f067aa.chunk.css",
+    "static/js/2.b3b69d12.chunk.js": "/GenderReveal/static/js/2.b3b69d12.chunk.js",
+    "static/js/2.b3b69d12.chunk.js.map": "/GenderReveal/static/js/2.b3b69d12.chunk.js.map",
+    "index.html": "/GenderReveal/index.html",
+    "precache-manifest.2ef5c329080081428386d4ce04b124cc.js": "/GenderReveal/precache-manifest.2ef5c329080081428386d4ce04b124cc.js",
+    "service-worker.js": "/GenderReveal/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/GenderReveal/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.93da209f.chunk.css.map": "/GenderReveal/static/css/main.93da209f.chunk.css.map",
+    "static/js/2.b3b69d12.chunk.js.LICENSE.txt": "/GenderReveal/static/js/2.b3b69d12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57c712a0.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.b3b69d12.chunk.js",
+    "static/css/main.93da209f.chunk.css",
+    "static/js/main.047d0a19.chunk.js"
+  ]
+}
